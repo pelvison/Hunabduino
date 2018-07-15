@@ -17,10 +17,10 @@
           "help": {
             "online": "http://wiki.hunabsys.com/"
           },
-          "url": "https://raw.githubusercontent.com/HunbsysR&D/Hunabsys_Platform/master/Hunabsys_SAMD_v1.0.0.tar.bz2",
+          "url": "https://github.com/pelvison/Hunabduino/raw/master/Hunabduino_SAMD_v1.0.0.tar.bz2",
           "archiveFileName": "Hunabsys_SAMD_v1.0.0.tar.bz2",
-          "checksum": "SHA-256:044ca6e7be70a09dba38e2195f82045e24234f592bedcb1125a88d69908493d5",
-          "size": "4884594",
+          "checksum": "SHA-256:5a4f5da6dfdb54732c4398937ffa2ad246c6eca84248deeca2cbbd40a449030a",
+          "size": "440768",
           "boards": [
             {
               "name": "Hunabsys LoraWAN"
