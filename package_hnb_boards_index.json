@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "Hunabsys SAMD",
+          "name": "Hunabsys SAMD Tech",
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
