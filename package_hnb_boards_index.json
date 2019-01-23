@@ -50,15 +50,6 @@
           ]
         },
         {
-       "name": "Hunabsys",
-      "maintainer": "Hunabsys R&D",
-      "websiteURL": "http://www.hunabsys.com/",
-      "email": "support@hunabsys.com",
-      "help": {
-        "online": "http://wiki.hunabsys.com/"
-      },
-      "platforms": [
-        {
           "name": "Hunabsys SAMD Tech",
           "architecture": "samd",
           "version": "1.1.0",
@@ -98,15 +89,6 @@
             }
           ]
         },
-        {
-      "name": "Hunabsys",
-      "maintainer": "Hunabsys R&D",
-      "websiteURL": "http://www.hunabsys.com/",
-      "email": "support@hunabsys.com",
-      "help": {
-        "online": "http://wiki.hunabsys.com/"
-      },
-      "platforms": [
         {
           "name": "Hunabsys SAMD Tech",
           "architecture": "samd",
