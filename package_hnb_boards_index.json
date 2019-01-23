@@ -49,7 +49,8 @@
             }
           ]
         },
-        "name": "Hunabsys",
+        {
+       "name": "Hunabsys",
       "maintainer": "Hunabsys R&D",
       "websiteURL": "http://www.hunabsys.com/",
       "email": "support@hunabsys.com",
@@ -97,7 +98,8 @@
             }
           ]
         },
-    "name": "Hunabsys",
+        {
+      "name": "Hunabsys",
       "maintainer": "Hunabsys R&D",
       "websiteURL": "http://www.hunabsys.com/",
       "email": "support@hunabsys.com",
