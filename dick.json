@@ -1,0 +1,56 @@
+{
+  "packages": [
+    {
+      "name": "Hunabsys",
+      "maintainer": "Hunabsys R&D",
+      "websiteURL": "http://www.hunabsys.com/",
+      "email": "support@hunabsys.com",
+      "help": {
+        "online": "http://wiki.hunabsys.com/"
+      },
+      "platforms": [
+        {
+          "name": "Hunabsys SAMD Tech",
+          "architecture": "samd",
+          "version": "1.2.0",
+          "category": "Contributed",
+          "help": {
+            "online": "http://wiki.hunabsys.com/"
+          },     
+          "url": "https://github.com/pelvison/Hunabduino/raw/master/Hunabduino_SAMD_v1.0.0.tar.bz2",
+          "archiveFileName": "Hunabduino_SAMD_v1.0.0.tar.bz2",
+          "checksum": "SHA-256:48dfbbb3aafe47755174207e49356ec21bdacfd8df0f23172e5e7b714dd0b6e9",
+          "size": "1801217",
+          "boards": [
+            {
+              "name": "Hunabsys LoRaWAN board"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.6.1-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.0.0-atmel"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
