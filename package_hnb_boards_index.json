@@ -17,8 +17,8 @@
           "help": {
             "online": "http://wiki.hunabsys.com/"
           },     
-          "url": "https://github.com/pelvison/Hunabduino/raw/master/Hunabduino_SAMD_v1.2.0.zip",
-          "archiveFileName": "Hunabduino_SAMD_v1.2.0.zip",
+          "url": "https://github.com/pelvison/Hunabduino/raw/master/Hunabduino_SAMD_v1.2.0.tar.bz2",
+          "archiveFileName": "Hunabduino_SAMD_v1.2.0.tar.bz2",
           "checksum": "SHA-256:88496a0ac9e036ce119362a6bcc0168f6a5a84c4a978b5ea3bccf07795ede825",
           "size": "439609",
           "boards": [
