@@ -19,8 +19,8 @@
           },     
           "url": "https://github.com/pelvison/Hunabduino/raw/master/Hunabduino_SAMD_v1.2.0.zip",
           "archiveFileName": "Hunabduino_SAMD_v1.2.0.zip",
-          "checksum": "SHA-256:4e06a73cf74297fb57f3f4b5d54d82e03cb0973c7b5d0bd71711489d80b89ebd",
-          "size": "828719",
+          "checksum": "SHA-256:88496a0ac9e036ce119362a6bcc0168f6a5a84c4a978b5ea3bccf07795ede825",
+          "size": "439609",
           "boards": [
             {
               "name": "Hunabsys LoRaWAN board"
