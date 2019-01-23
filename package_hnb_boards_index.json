@@ -12,15 +12,15 @@
         {
           "name": "Hunabsys SAMD Tech",
           "architecture": "samd",
-          "version": "1.1.0",
+          "version": "1.2.0",
           "category": "Contributed",
           "help": {
             "online": "http://wiki.hunabsys.com/"
           },     
-          "url": "https://github.com/pelvison/Hunabduino/raw/master/Hunabduino_SAMD_v1.1.0.tar.bz2",
-          "archiveFileName": "Hunabduino_SAMD_v1.1.0.tar.bz2",
-          "checksum": "SHA-256:447bab4d4dcac53bdcb20b29f455b94c16d6d47719e652fd9dd1b0ea43d3f5bd",
-          "size": "450743",
+          "url": "https://github.com/pelvison/Hunabduino/raw/master/Hunabduino_SAMD_v1.2.0.tar.bz2",
+          "archiveFileName": "Hunabduino_SAMD_v1.2.0.tar.bz2",
+          "checksum": "SHA-256:82920d076a5524afb2611b18674877ac3ad17d8e22e1ab98919f8ca7cef7a967",
+          "size": "1801220",
           "boards": [
             {
               "name": "Hunabsys LoRaWAN board"
